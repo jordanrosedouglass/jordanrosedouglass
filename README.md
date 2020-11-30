@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Jordan Douglass 😄
 
-<!--
-**jordanrosedouglass/jordanrosedouglass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <a href="https://www.linkedin.com/in/jordan-douglass-137337158/">
 <img align="left" alt="Jordan Douglass" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -33,4 +28,3 @@ Here are some ideas to get you started:
 - [Predicting Hypertension Risk in Young Adults](https://github.com/jordanrosedouglass/hypertension_research)
 - Reducing Readmission Risk in Hospitals (can't share that here!) 😷
 
--->
