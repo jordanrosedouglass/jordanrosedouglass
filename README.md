@@ -9,7 +9,7 @@
 
 
 ## Interests 😈
-- 🔭 I’m currently a graduate student pursuing Engineering Management
+- 🔭 I’m a recent Engineering MS graduate.
 - 🌱 I have a B.S. in Data Analytics with a concentration in Health Informatics
 - 📕 For fun, I run and like to read books!
 - 🤔 I oftentimes struggle with time management and organization
