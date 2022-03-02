@@ -5,9 +5,6 @@
 </a>
 
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/oVfOlnivvei9jcPFVd/giphy.gif" />
-
-
 ## Interests 😈
 - 🔭 I’m a recent Engineering MS graduate.
 - 🌱 I have a B.S. in Data Analytics with a concentration in Health Informatics
